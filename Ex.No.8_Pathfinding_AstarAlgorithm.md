@@ -138,7 +138,9 @@ Check the following
 4. AICharacter assigned a start and goal
 ### Output:
 
+![WhatsApp Image 2026-03-10 at 08 50 00](https://github.com/user-attachments/assets/840282bc-9806-464a-af47-51f95ac00782)
 
+![42](https://github.com/user-attachments/assets/3b58678e-8bd2-4b51-a557-4a2fc5e38b67)
 
 
 
